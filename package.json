@@ -1,0 +1,14 @@
+{
+  "name": "test-integration-2017",
+  "description": "",
+  "author": "",
+  "version": "0.1.0",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "~6.3",
+    "grunt": "~1.0",
+    "grunt-browser-sync": "~2.2",
+    "grunt-contrib-watch": "~1.0"
+  }
+}

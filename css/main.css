@@ -1,0 +1,196 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/** 
+   font-weight: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-size: 100%;
+}*/
+
+@media(min-width: 768px) {
+   .news-input {
+         width: 50%;
+   }
+}
+
+
+/*Font*/
+body  { 
+   font-family: Acumin-pro, sans-serif !important;
+}
+
+h1, h2, .title-bold {
+   font-family: Acumin Pro Semibold, sans-serif !important;
+}
+
+nav-item {
+   font-family: Acumin Pro Light, sans-serif;
+   font-size: large;
+}
+
+a:hover {
+   font-family: Acumin Pro Semibold, sans-serif !important;
+}
+
+.condlight {
+   font-family: Acumin Pro Condensed Light, sans-serif !important;
+}
+
+#condbold {
+   font-family: Acumin Pro Condensed Bold, sans-serif !important;
+}
+
+.logtext {
+   font-family: Acumin Pro Condensed Light !important;
+}
+
+.card-text{
+   font-family: Acumin Pro Light, sans-serif;
+}
+
+.ul-font {
+   font-family: Acumin Pro Light, sans-serif;
+   margin-left: 35px;
+}
+
+
+
+/*modal*/
+.modal{
+   margin-top: 10vh;
+}
+
+.modal-header .close {
+   font-size: 80px !important; 
+}
+
+
+/*navbar*/
+#navbar{
+   background-color: #A6C73C;
+}
+
+.nav-item{
+   letter-spacing: -1px !important;
+}
+
+#other{
+   margin-left: 20px;
+}
+
+.logoTop{
+   margin-left: 0px;
+}
+
+.active {
+   font-weight: bold;
+}
+
+/*head*/
+#head {
+   background-color: #A6C73C;
+   height: 300px;
+   width: 102%
+}
+
+.title {
+   display: flex;
+   justify-content: center;
+   vertical-align: middle;
+   padding-top: 100px;
+   font-size: large !important;
+   font-weight: bold !important;
+}
+
+/*login*/
+#login {
+   display: flex;
+   max-width: 190px;
+   height: 50px;
+   padding: 0;
+   background: #576C7B !important;
+   border: none;
+   outline: none;
+   overflow: hidden;
+   font-family: "Quicksand", sans-serif;
+   border-radius: 0px;
+   font-size: 16px;
+   font-weight: 500;
+   cursor: pointer;
+}
+
+.buttonIcon {
+  
+  align-items: center;
+  padding: 0 65px;
+  color: #fff;
+  height: 100%;
+}
+
+.buttonText {
+  display: inline-flex;
+  align-items: center;
+  padding: 0 22px;
+  color: #fff;
+  height: 100%;
+}
+
+
+/*carousel*/
+.carousel-control-prev {
+   max-width: 45px;
+   max-height: 45px;
+   margin-left: -170px;
+   margin-top: 200px;
+   background-color: #445561;
+ }
+ 
+.carousel-control-next {
+   max-width: 45px;
+   max-height: 45px;
+   margin-right: -170px;
+   margin-top: 200px;
+   background-color: #445561;
+}
+
+.black-link {
+   color: black;
+   font-weight: bold;
+}
+
+
+#footerSize{
+   max-height: 200px;
+   padding-bottom: 40px;
+}
+
+.container-fluid{
+   max-width: 100%;
+}
+
+.logotext {
+  display: inline-block;
+  padding: 0 20px;
+  max-width: 350px;
+  max-height: 60px;
+  vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
